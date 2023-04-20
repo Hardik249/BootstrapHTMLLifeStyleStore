@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- <link rel="stylesheet" href="CSS/signup.css" type="text/css" /> -->
+    <link rel="stylesheet" href="CSS/style.css" type="text/css" />
+    <title>Products</title>
+</head>
+
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-taget="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="#" class="navbar-brand">Lifestyle Store</a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="Cart.html"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
+                    <li><a href="Setting.html"><span class="glyphicon glyphicon-user"></span> Setting</a></li>
+                    <li><a href="Logout.html"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Welcome to our Lifestyle Store!</h1>
+            <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.
+            </p>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/5.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Cannon EOS</h2>
+                        <p>Price: Rs. 36000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/2.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Sony DSLR</h2>
+                        <p>Price: Rs. 40000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/3.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Sony DSLR</h2>
+                        <p>Price: Rs. 50000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/4.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Olympus DSLR</h2>
+                        <p>Price: Rs. 80000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="row text-center">
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/9.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Titen Model #301</h2>
+                        <p>Price: Rs. 13000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/10.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Titen Model #201</h2>
+                        <p>Price: Rs. 3000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/11.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>HMT MILAN</h2>
+                        <p>Price: Rs. 8000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/12.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Faber Luba #111</h2>
+                        <p>Price: Rs. 18000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/8.jpg" alt="Camera">
+                    <div class="caption">
+                        <h1>H&W</h1>
+                        <p>Price: Rs. 800.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/6.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>Luis Phill</h2>
+                        <p>Price: Rs. 1000.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/13.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>John Zok</h2>
+                        <p>Price: Rs. 1500.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <a href="#" class="thumbnail">
+                    <img src="img/14.jpg" alt="Camera">
+                    <div class="caption">
+                        <h2>jhalsani</h2>
+                        <p>Price: Rs. 1300.00</p>
+                        <button class="btn btn-primary btn-block">Add to Cart</button>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="container0">
+            <p>Copyright &copy; Lifestyle Store. All Rights Reserved | Contact Us: +91 90000 00000</p>
+        </div>
+    </footer>
+</body>
+
+</html>
